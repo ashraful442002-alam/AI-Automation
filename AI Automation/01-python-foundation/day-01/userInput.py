@@ -13,3 +13,11 @@ print ("Hello ,", name)
 
 age = int(input("How old are you?\n"))
 print("I am ",age, " old")
+
+
+# ekshate onk kicu print kora
+
+name = "Ashraful"
+age = 24
+
+print(name,age)

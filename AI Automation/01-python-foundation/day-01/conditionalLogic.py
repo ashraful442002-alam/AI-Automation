@@ -1,10 +1,12 @@
-budget = int(input("Budget : "))
+#if/elif/else
 
-if budget >= 1000:
-    print("High-value lead")
+age = int(input("Enter your age: "))
+if age >=18:
+    print("Adult")
+    print ("You can continue")
 
-elif budget >=500:
-    print("Medium-value lead")
+elif age >20:
+    print("You can vote")
 
-else:
-    print("Low-value lead")
+else: 
+    print("You are children")
