@@ -330,7 +330,7 @@ Through these practical experiments, I learned:
 
 **Mu Ashraful Alam**
 
-- GitHub: [https://github.com/your-username](https://github.com/your-username)
+- GitHub: [https://github.com/ashraful442002-alam](https://github.com/your-username)
 - Location: Bangladesh
 - Learning Focus: AI Automation, n8n, APIs, and Workflow Development
 
